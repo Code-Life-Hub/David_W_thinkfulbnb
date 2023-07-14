@@ -6,10 +6,10 @@ Thinkfulbnb is a platform designed to help you find the perfect vacation rental.
 
 The site offers variety of rental options, including:
 
-- ###Forest retreats
-- ###Beaches
-- ###Rustic cabins
-- ###Pet-friendly accommodations
+- Forest retreats
+- Beaches
+- Rustic cabins
+- Pet-friendly accommodations
 
 ## Live Demo
 
