@@ -13,4 +13,4 @@ The site offers variety of rental options, including:
 
 ## Live Demo
 
-You can access the live demo of the project here --> [Live Demo](https://code-life-hub.github.io/David_W_thinkfulbnb/).
+You can access the live demo of the project here --> [Live Demo]([https://code-life-hub.github.io/David_W_thinkfulbnb/](https://code-life-hub.github.io/Thinkful_bNb/)https://code-life-hub.github.io/Thinkful_bNb/).
